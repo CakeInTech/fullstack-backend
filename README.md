@@ -101,7 +101,7 @@ After you're finished please remove all the comments and instructions!
 
 ## Frontend Project Link
 
-- [Frontend Part]()
+- [Frontend Part](https://github.com/CakeInTech/fullstack-frontend)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -115,36 +115,28 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-<!--
-
 ```sh
   cd my-folder
   git clone git@github.com:CakeInTech/fullstack-backend.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-
 ```sh
   cd my-project
   bundle install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-
 ```sh
   rails server
 ```
---->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
